@@ -17,5 +17,5 @@ if not defined PYTHON_CMD (
 echo Open this address in browser:
 echo http://localhost:3000
 echo.
-%PYTHON_CMD% server_py.py
+%PYTHON_CMD% server.py
 pause
